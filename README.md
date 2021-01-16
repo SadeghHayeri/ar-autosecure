@@ -14,7 +14,7 @@ docker run \
  -e HIGH_LOAD_THRESHOLD='5,10,50' \
  -e API_KEY='TOKEN_HERE' \
  -v /proc/loadavg:/proc/loadavg \
- sadeghhayeri/ar-autosecure:v0.1.0
+ sadeghhayeri/ar-autosecure
 ```
 
 
